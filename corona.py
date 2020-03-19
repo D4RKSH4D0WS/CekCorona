@@ -1,3 +1,6 @@
+#Mampir cok
+#https://github.com/JustAHackers
+#youtube : JustA Hackers
 import requests,re,os
 from difflib import get_close_matches as caris
 G0 = "\033[0;32m"
